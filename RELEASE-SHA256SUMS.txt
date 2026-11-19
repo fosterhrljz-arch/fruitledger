@@ -1,0 +1,6 @@
+13eacf27a01b23c02181be1b46d91352b15fa1d0c3f53eebd8e4b8385da7cfe2  FruitLedger-AgentGit-submission.zip
+bdfda8b85bc3cd25d2f8f8ecd40c73aca22b430692e6b29a448742f56324b47a  FruitLedger-ready-to-use.zip
+f4e816b2346f6d26b576979b6266cc8524f0b02d9d19118b8d54ff183ffda7b8  FruitLedger-v1-backup.zip
+c5b6963bd6b71c34e7b35987b80fd6526e11755c136c3b8aa85973d6cfbe3a68  FruitLedger-v2-before-polish.zip
+f982d69e5c07a96ef93d4e70204bd67c31a688d27e233dc995bfa41d2a154675  FruitLedger-v2-ready-to-use.zip
+bdfda8b85bc3cd25d2f8f8ecd40c73aca22b430692e6b29a448742f56324b47a  FruitLedger-v2.1-ready-to-use.zip

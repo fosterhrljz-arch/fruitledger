@@ -1,0 +1,452 @@
+{
+  "data": {
+    "version": 1,
+    "revision": 0,
+    "mode": "demo",
+    "unit": "kg",
+    "commands": [
+      {
+        "id": "demo-1",
+        "type": "purchase",
+        "at": "2026-11-04T17:00:00.000Z",
+        "day": "2026-11-04",
+        "name": "Gala apples",
+        "grams": 70000,
+        "cost": 16800,
+        "price": 490
+      },
+      {
+        "id": "demo-2",
+        "type": "purchase",
+        "at": "2026-11-04T17:00:00.000Z",
+        "day": "2026-11-04",
+        "name": "Cavendish bananas",
+        "grams": 55000,
+        "cost": 8250,
+        "price": 320
+      },
+      {
+        "id": "demo-3",
+        "type": "purchase",
+        "at": "2026-11-04T17:00:00.000Z",
+        "day": "2026-11-04",
+        "name": "Navel oranges",
+        "grams": 65000,
+        "cost": 13000,
+        "price": 450
+      },
+      {
+        "id": "demo-4",
+        "type": "purchase",
+        "at": "2026-11-04T17:00:00.000Z",
+        "day": "2026-11-04",
+        "name": "Strawberries",
+        "grams": 24000,
+        "cost": 14400,
+        "price": 1200
+      },
+      {
+        "id": "demo-5",
+        "type": "purchase",
+        "at": "2026-11-04T17:00:00.000Z",
+        "day": "2026-11-04",
+        "name": "Green grapes",
+        "grams": 45000,
+        "cost": 13500,
+        "price": 590
+      },
+      {
+        "id": "demo-6",
+        "type": "sale",
+        "at": "2026-11-05T16:10:00.000Z",
+        "day": "2026-11-05",
+        "fruitId": "demo-1",
+        "grams": 5000,
+        "price": 490
+      },
+      {
+        "id": "demo-7",
+        "type": "sale",
+        "at": "2026-11-05T17:10:00.000Z",
+        "day": "2026-11-05",
+        "fruitId": "demo-2",
+        "grams": 4000,
+        "price": 320
+      },
+      {
+        "id": "demo-8",
+        "type": "sale",
+        "at": "2026-11-05T18:10:00.000Z",
+        "day": "2026-11-05",
+        "fruitId": "demo-3",
+        "grams": 6000,
+        "price": 450
+      },
+      {
+        "id": "demo-9",
+        "type": "sale",
+        "at": "2026-11-05T19:10:00.000Z",
+        "day": "2026-11-05",
+        "fruitId": "demo-4",
+        "grams": 1500,
+        "price": 1200
+      },
+      {
+        "id": "demo-10",
+        "type": "sale",
+        "at": "2026-11-05T20:10:00.000Z",
+        "day": "2026-11-05",
+        "fruitId": "demo-5",
+        "grams": 3000,
+        "price": 590
+      },
+      {
+        "id": "demo-11",
+        "type": "sale",
+        "at": "2026-11-06T16:13:00.000Z",
+        "day": "2026-11-06",
+        "fruitId": "demo-1",
+        "grams": 6500,
+        "price": 490
+      },
+      {
+        "id": "demo-12",
+        "type": "sale",
+        "at": "2026-11-06T17:13:00.000Z",
+        "day": "2026-11-06",
+        "fruitId": "demo-2",
+        "grams": 5000,
+        "price": 320
+      },
+      {
+        "id": "demo-13",
+        "type": "sale",
+        "at": "2026-11-06T18:13:00.000Z",
+        "day": "2026-11-06",
+        "fruitId": "demo-3",
+        "grams": 4500,
+        "price": 450
+      },
+      {
+        "id": "demo-14",
+        "type": "sale",
+        "at": "2026-11-06T19:13:00.000Z",
+        "day": "2026-11-06",
+        "fruitId": "demo-4",
+        "grams": 2000,
+        "price": 1200
+      },
+      {
+        "id": "demo-15",
+        "type": "sale",
+        "at": "2026-11-06T20:13:00.000Z",
+        "day": "2026-11-06",
+        "fruitId": "demo-5",
+        "grams": 3500,
+        "price": 590
+      },
+      {
+        "id": "demo-16",
+        "type": "sale",
+        "at": "2026-11-07T16:16:00.000Z",
+        "day": "2026-11-07",
+        "fruitId": "demo-1",
+        "grams": 4000,
+        "price": 490
+      },
+      {
+        "id": "demo-17",
+        "type": "sale",
+        "at": "2026-11-07T17:16:00.000Z",
+        "day": "2026-11-07",
+        "fruitId": "demo-2",
+        "grams": 3500,
+        "price": 320
+      },
+      {
+        "id": "demo-18",
+        "type": "sale",
+        "at": "2026-11-07T18:16:00.000Z",
+        "day": "2026-11-07",
+        "fruitId": "demo-3",
+        "grams": 5000,
+        "price": 450
+      },
+      {
+        "id": "demo-19",
+        "type": "sale",
+        "at": "2026-11-07T19:16:00.000Z",
+        "day": "2026-11-07",
+        "fruitId": "demo-4",
+        "grams": 1800,
+        "price": 1200
+      },
+      {
+        "id": "demo-20",
+        "type": "sale",
+        "at": "2026-11-07T20:16:00.000Z",
+        "day": "2026-11-07",
+        "fruitId": "demo-5",
+        "grams": 2500,
+        "price": 590
+      },
+      {
+        "id": "demo-21",
+        "type": "sale",
+        "at": "2026-11-08T16:19:00.000Z",
+        "day": "2026-11-08",
+        "fruitId": "demo-1",
+        "grams": 7000,
+        "price": 490
+      },
+      {
+        "id": "demo-22",
+        "type": "sale",
+        "at": "2026-11-08T17:19:00.000Z",
+        "day": "2026-11-08",
+        "fruitId": "demo-2",
+        "grams": 6000,
+        "price": 320
+      },
+      {
+        "id": "demo-23",
+        "type": "sale",
+        "at": "2026-11-08T18:19:00.000Z",
+        "day": "2026-11-08",
+        "fruitId": "demo-3",
+        "grams": 6500,
+        "price": 450
+      },
+      {
+        "id": "demo-24",
+        "type": "sale",
+        "at": "2026-11-08T19:19:00.000Z",
+        "day": "2026-11-08",
+        "fruitId": "demo-4",
+        "grams": 2200,
+        "price": 1200
+      },
+      {
+        "id": "demo-25",
+        "type": "sale",
+        "at": "2026-11-08T20:19:00.000Z",
+        "day": "2026-11-08",
+        "fruitId": "demo-5",
+        "grams": 4000,
+        "price": 590
+      },
+      {
+        "id": "demo-26",
+        "type": "sale",
+        "at": "2026-11-09T16:22:00.000Z",
+        "day": "2026-11-09",
+        "fruitId": "demo-1",
+        "grams": 6000,
+        "price": 490
+      },
+      {
+        "id": "demo-27",
+        "type": "sale",
+        "at": "2026-11-09T17:22:00.000Z",
+        "day": "2026-11-09",
+        "fruitId": "demo-2",
+        "grams": 5000,
+        "price": 320
+      },
+      {
+        "id": "demo-28",
+        "type": "sale",
+        "at": "2026-11-09T18:22:00.000Z",
+        "day": "2026-11-09",
+        "fruitId": "demo-3",
+        "grams": 6000,
+        "price": 450
+      },
+      {
+        "id": "demo-29",
+        "type": "sale",
+        "at": "2026-11-09T19:22:00.000Z",
+        "day": "2026-11-09",
+        "fruitId": "demo-4",
+        "grams": 2500,
+        "price": 1200
+      },
+      {
+        "id": "demo-30",
+        "type": "sale",
+        "at": "2026-11-09T20:22:00.000Z",
+        "day": "2026-11-09",
+        "fruitId": "demo-5",
+        "grams": 3500,
+        "price": 590
+      },
+      {
+        "id": "demo-31",
+        "type": "sale",
+        "at": "2026-11-10T16:25:00.000Z",
+        "day": "2026-11-10",
+        "fruitId": "demo-1",
+        "grams": 8000,
+        "price": 490
+      },
+      {
+        "id": "demo-32",
+        "type": "sale",
+        "at": "2026-11-10T17:25:00.000Z",
+        "day": "2026-11-10",
+        "fruitId": "demo-2",
+        "grams": 6500,
+        "price": 320
+      },
+      {
+        "id": "demo-33",
+        "type": "sale",
+        "at": "2026-11-10T18:25:00.000Z",
+        "day": "2026-11-10",
+        "fruitId": "demo-3",
+        "grams": 7000,
+        "price": 450
+      },
+      {
+        "id": "demo-34",
+        "type": "sale",
+        "at": "2026-11-10T19:25:00.000Z",
+        "day": "2026-11-10",
+        "fruitId": "demo-4",
+        "grams": 3000,
+        "price": 1200
+      },
+      {
+        "id": "demo-35",
+        "type": "sale",
+        "at": "2026-11-10T20:25:00.000Z",
+        "day": "2026-11-10",
+        "fruitId": "demo-5",
+        "grams": 4500,
+        "price": 590
+      },
+      {
+        "id": "demo-36",
+        "type": "sale",
+        "at": "2026-11-11T16:28:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-1",
+        "grams": 5500,
+        "price": 490
+      },
+      {
+        "id": "demo-37",
+        "type": "sale",
+        "at": "2026-11-11T17:28:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-2",
+        "grams": 4500,
+        "price": 320
+      },
+      {
+        "id": "demo-38",
+        "type": "sale",
+        "at": "2026-11-11T18:28:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-3",
+        "grams": 6500,
+        "price": 450
+      },
+      {
+        "id": "demo-39",
+        "type": "sale",
+        "at": "2026-11-11T19:28:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-4",
+        "grams": 2000,
+        "price": 1200
+      },
+      {
+        "id": "demo-40",
+        "type": "sale",
+        "at": "2026-11-11T20:28:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-5",
+        "grams": 3000,
+        "price": 590
+      },
+      {
+        "id": "demo-41",
+        "type": "spoilage",
+        "at": "2026-11-11T21:10:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-4",
+        "grams": 800,
+        "note": "Bruised during display"
+      },
+      {
+        "id": "demo-42",
+        "type": "spoilage",
+        "at": "2026-11-11T21:35:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-2",
+        "grams": 600,
+        "note": "Overripe fruit"
+      },
+      {
+        "id": "demo-43",
+        "type": "sale",
+        "at": "2026-11-11T22:20:00.000Z",
+        "day": "2026-11-11",
+        "fruitId": "demo-5",
+        "grams": 1500,
+        "price": 590
+      },
+      {
+        "id": "demo-44",
+        "type": "return",
+        "at": "2026-11-11T22:45:00.000Z",
+        "day": "2026-11-11",
+        "saleId": "demo-43",
+        "grams": 500,
+        "restock": true,
+        "note": "Customer bought too much"
+      }
+    ]
+  },
+  "items": [
+    [
+      "demo-1",
+      28000,
+      6720,
+      490
+    ],
+    [
+      "demo-2",
+      19900,
+      2985,
+      320
+    ],
+    [
+      "demo-3",
+      23500,
+      4700,
+      450
+    ],
+    [
+      "demo-4",
+      8200,
+      4920,
+      1200
+    ],
+    [
+      "demo-5",
+      20000,
+      6000,
+      590
+    ]
+  ],
+  "summary": {
+    "stock": 99600,
+    "value": 25325,
+    "revenue": 11820,
+    "loss": 570,
+    "profit": 5555,
+    "cogs": 5695
+  }
+}

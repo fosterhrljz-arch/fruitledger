@@ -1,0 +1,1 @@
+{"name":"fruitledger","version":"2.1.0","private":true,"description":"Offline fruit shop inventory and daily sales. No installation or build required.","scripts":{"test":"node --test tests/engine.test.cjs tests/corrections.test.cjs tests/reports.test.cjs"}}
